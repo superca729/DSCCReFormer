@@ -1,6 +1,6 @@
 # DSCCReFormer: Traffic Flow Prediction with Dual-Stream Criss-Cross Enhanced Rectified Transformer
 
-This repository contains the implementation code for the paper "DSCCReFormer: Traffic Flow Prediction with Dual-Stream Criss-Cross Enhanced Rectified Transformer". Our model, DSCCReFormer, introduces an innovative approach for traffic flow prediction, leveraging the capabilities of dual-stream processing and criss-cross attention mechanisms within a rectified transformer framework.The frameword of our model showing as below:
+This repository contains the implementation code for the paper "DSCCReFormer: Traffic Flow Prediction with Dual-Stream Criss-Cross Enhanced Rectified Transformer". Our model, DSCCReFormer, introduces an innovative approach for traffic flow prediction, leveraging the capabilities of dual-stream processing and criss-cross attention mechanisms within a rectified transformer framework. The framework of our model is shown as below:
 
 <p align="center">
   <img width="367" alt="image" src="https://github.com/superca729/DSCCReFormer/assets/54494470/00647675-1472-4629-850f-73b695ded129">
